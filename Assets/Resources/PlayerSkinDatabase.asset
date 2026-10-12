@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2164a14529e249d08b1372a68b7301e7, type: 3}
+  m_Name: PlayerSkinDatabase
+  m_EditorClassIdentifier: 
+  skins:
+  - id: 0
+    skinName: Classic Neon Green
+    sprite: {fileID: 21300000, guid: 62329d5d6b9c4c5989e14c8a950f1d13, type: 3}
+  - id: 1
+    skinName: Electric Cyan
+    sprite: {fileID: 21300000, guid: 6c373c74b6674d338c275726eb8cb499, type: 3}
+  - id: 2
+    skinName: Neon Purple
+    sprite: {fileID: 21300000, guid: dfa63e15e3f148c4ab0447e6ac23baf9, type: 3}
+  - id: 3
+    skinName: Fire Blaze Orange
+    sprite: {fileID: 21300000, guid: a82986ca459e4f8fa1e8654c0882ad74, type: 3}
+  - id: 4
+    skinName: Golden Champion
+    sprite: {fileID: 21300000, guid: 1c1e8f7e071f40c5bc01e3354a9bf368, type: 3}
+  - id: 5
+    skinName: Crimson Ninja
+    sprite: {fileID: 21300000, guid: 001bb7449b2243e68d8983705ae3fafe, type: 3}
+  - id: 6
+    skinName: Toxic Lime
+    sprite: {fileID: 21300000, guid: d0cc9be1752e44d98920b3a9cb32259e, type: 3}
+  - id: 7
+    skinName: Shadow Phantom
+    sprite: {fileID: 21300000, guid: 0191d86e2ee345ba8a22e50e2aebe8b9, type: 3}
+  - id: 8
+    skinName: Bubblegum Pop
+    sprite: {fileID: 21300000, guid: af50f79a5c024607ad63d1e783db6943, type: 3}
+  - id: 9
+    skinName: Arctic Frost
+    sprite: {fileID: 21300000, guid: d6cd4e0eb1e94eaf972c40721f9de225, type: 3}
